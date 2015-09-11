@@ -1,0 +1,9 @@
+<document>
+   <alertTemplate>
+      <title>Hello Apple TV!</title>
+      <description>It's my first TVMLKit app.</description>
+      <button>
+         <text>OK</text>
+      </button>
+   </alertTemplate>
+</document>
